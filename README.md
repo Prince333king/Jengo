@@ -1,2 +1,2 @@
 # Jengo
-A game of calm mind..
+A Simple Unity3D game..
